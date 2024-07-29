@@ -60,8 +60,9 @@ The [Swift Package Manager](https://swift.org/package-manager/) is a tool for ma
 To integrate `ConfettiSwiftUI` into your Xcode project using Xcode 12, specify it in `File > Swift Packages > Add Package Dependency...`:
 
 ```ogdl
-https://github.com/sebasvisser/ConfettiSwiftUI.git, :branch="master"
+https://github.com/sebasvisser/ConfettiSwiftUI.git"
 ```
+choose master branch and add to target!
 
 ---
 
